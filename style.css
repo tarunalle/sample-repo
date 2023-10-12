@@ -1,0 +1,22 @@
+.my_style {
+    background-color: #000fff;
+    color: #ff69b4;
+    font-family:monospace;
+    
+}
+
+.your_style {
+    background-color: bisque;
+    color: brown;
+    font-family: fantasy;
+}
+
+#aaa {
+    background-color: chocolate;
+    color: chartreuse;
+}
+
+p {
+    background-color: coral;
+    color: #000;
+}
